@@ -1,0 +1,14 @@
+{
+  "name": "eth-microbit",
+  "version": "0.0.0",
+  "description": "Powering microbit LED over bluetooth via ETH payments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
